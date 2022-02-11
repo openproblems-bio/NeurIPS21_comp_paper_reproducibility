@@ -1,0 +1,27 @@
+Team Name,id,arithmetic_mean_ATAC,Method Name,Challenge Phase
+Amateur,171079,0.8424,,Joint Embedding - Phase 2
+BIMSB Bioinformatics,168939,0.5459,,Joint Embedding - Phase 2
+BIOCL,171071,0.0,,Joint Embedding - Phase 2
+Collab at AskExplain,170802,0.8053,gcproc,Joint Embedding - Phase 2
+ComManDo,171086,0.3344,ComManDo - Fallback - More Resource,Joint Embedding - Phase 2
+DJG lab,169223,0.8121,DJG_MOE_Joint_Embedding,Joint Embedding - Phase 2
+FinPak,168524,0.7358,,Joint Embedding - Phase 2
+GALIXIR_SYSU,168849,0.5621,PoE,Joint Embedding - Phase 2
+GLUE,171078,0.8317,CLUE,Joint Embedding - Phase 2
+GarryLab,170298,0.815,DJG_MOE_Joint_Embedding,Joint Embedding - Phase 2
+Guanlab-dengkw,170435,0.8308,Finetune2,Joint Embedding - Phase 2
+KhrameevaLab,170579,0.0,,Joint Embedding - Phase 2
+LiuZ_Lab_BCM,170078,0.8129,GBSN,Joint Embedding - Phase 2
+Living-Systems-Lab,170825,0.8390000000000001,LSL_8,Joint Embedding - Phase 2
+MahfouzLab,170640,0.7519,Kit_1,Joint Embedding - Phase 2
+Maxwell,168647,0.7439,base,Joint Embedding - Phase 2
+SIMBA,171367,0.8212,SIMBA,Joint Embedding - Phase 2
+S_lab,169995,0.8379,,Joint Embedding - Phase 2
+TeamRegGen,169908,0.8240000000000001,Liam Multiome 3,Joint Embedding - Phase 2
+Teddy,170704,0.7618,,Joint Embedding - Phase 2
+Transbio_NB,169876,0.7922,,Joint Embedding - Phase 2
+balia,170749,0.8225,,Joint Embedding - Phase 2
+mikephn,170083,0.7955,,Joint Embedding - Phase 2
+ob1a,170288,0.7842,,Joint Embedding - Phase 2
+teamupupup,170423,0.7515,,Joint Embedding - Phase 2
+willM,170329,0.7464,int_nmf,Joint Embedding - Phase 2
