@@ -75,3 +75,6 @@ Task3_reevaluating_batch_removal
 
 
 ```
+
+## Software dependencies
+This analysis was carried out with Python 3.8.12 and scib v1.0.0 (https://github.com/theislab/scib/)
